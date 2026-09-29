@@ -1,2 +1,5 @@
-# error-foundation-not-found
+# Bug Report: error-foundation-not-found
+
 ERROR: FOUNDATION NOT FOUND
+
+
