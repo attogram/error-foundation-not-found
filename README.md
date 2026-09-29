@@ -3,7 +3,9 @@
 Welcome to The Open Error Foundation i.o.
 
 Address: 452 Keizersgracht, 1016GD Amsterdam, The Netherlands.
+
 KvK: Error
+
 ANBI: Error
 
 We are forming a non-profit foundation, based in Amsterdam.
